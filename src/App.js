@@ -1,6 +1,6 @@
 
 import categoriesData from './categories.json';
-import Categories from './components/categories.component';
+import Categories from './components/category/categories.component';
 
 function App() {
   const subtitle = "Shop Now";
